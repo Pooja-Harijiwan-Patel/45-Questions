@@ -6,8 +6,8 @@ const famousMagicians: string[] = [
     "Criss Angel"
 ];
 
-function magician_names(){
+function show_magicians(){
 console.log(famousMagicians);
 }
 
-magician_names();
+show_magicians();
